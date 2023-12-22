@@ -1,0 +1,222 @@
+[
+  {
+    "name": "M",
+    "teacher": "Ng",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "CJ",
+    "teacher": "Su",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "A",
+    "teacher": "Ju",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "WA",
+    "teacher": "Pv",
+    "room": 17,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "WA",
+    "teacher": "Pv",
+    "room": 17,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "TV",
+    "teacher": "Lc",
+    "room": 1,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "PIS",
+    "teacher": "Bc",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  null,
+  null, 
+  null,
+  {
+    "name": "WA",
+    "teacher": "Pv",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "PV",
+    "teacher": "Ma",
+    "room": 18,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "PV",
+    "teacher": "Ma",
+    "room": 18,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "DS",
+    "teacher": "Ka",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "AM",
+    "teacher": "Kl",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "A",
+    "teacher": "Ju",
+    "room": 5,
+    "is_multiple_hour": false
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "name": "C",
+    "teacher": "Su",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "PSS",
+    "teacher": "Ms",
+    "room": 8,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "PSS",
+    "teacher": "Ms",
+    "room": 8,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "PV",
+    "teacher": "Re",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "M",
+    "teacher": "Ng",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  null,
+  {
+    "name": "AM",
+    "teacher": "Kl",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "TV",
+    "teacher": "Lc",
+    "room": 1,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "M",
+    "teacher": "Ng",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  null,
+  {
+    "name": "A",
+    "teacher": "Ju",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "DS",
+    "teacher": "Ka",
+    "room": 18,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "DS",
+    "teacher": "Ka",
+    "room": 18,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "PSS",
+    "teacher": "Ms",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "PIS",
+    "teacher": "Bc",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "TP",
+    "teacher": "No",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "name": "CIT",
+    "teacher": "Mz",
+    "room": 17,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "CIT",
+    "teacher": "Mz",
+    "room": 17,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "PIS",
+    "teacher": "Bc",
+    "room": 19,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "PIS",
+    "teacher": "Bc",
+    "room": 19,
+    "is_multiple_hour": true
+  },
+  {
+    "name": "A",
+    "teacher": "Ju",
+    "room": 5,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "C",
+    "teacher": "Su",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  {
+    "name": "M",
+    "teacher": "Ng",
+    "room": 24,
+    "is_multiple_hour": false
+  },
+  null,
+  null,
+  null
+]
